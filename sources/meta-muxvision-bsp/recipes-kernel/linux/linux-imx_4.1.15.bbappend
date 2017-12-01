@@ -1,8 +1,8 @@
 
-SRC_URI = "git://git@192.168.2.29/krogoth/kernel.git;branch=${SRCBRANCH};protocol=ssh \
+SRC_URI = "git://git@github.com:muxvision/linux-mx5a-4.1.15.git;branch=${SRCBRANCH};protocol=ssh \
 "
 SRCREV="${AUTOREV}"
-SRCBRANCH="mux_4.1.15"
+SRCBRANCH="master"
 
 SCMVERSION = ""
 LOCALVERSION = "-generic"
