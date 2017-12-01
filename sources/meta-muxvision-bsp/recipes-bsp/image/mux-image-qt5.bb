@@ -62,7 +62,6 @@ MXAPP_DEPEND_INSTALL = "\
     tcpdump \
     iftop \
     lrzsz \
-    nginx \
     zip \
     ffmpeg \
     unzip \
