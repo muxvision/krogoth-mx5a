@@ -63,7 +63,6 @@ MXAPP_DEPEND_INSTALL = "\
     iftop \
     lrzsz \
     zip \
-    ffmpeg \
     unzip \
     curl \
     vsftpd \
